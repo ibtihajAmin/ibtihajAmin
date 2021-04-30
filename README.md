@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibtihajAmin
 - 👀 I’m interested in Web Development, System Design, Machine Learning
-- 🌱 I’m currently learning Sass, React js
+- 🌱 I’m currently learning Front-end development
 - 📫 How to reach me ...
 
 <!---
