@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibtihajAmin
-- 👀 I’m interested in Web Development, System Design, Blockchain
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 👀 I’m interested in Technologies
+- 🌱 I’m currently learning Machine Learning, Image Processing
 - 📫 How to reach me ...
 
 <!---
